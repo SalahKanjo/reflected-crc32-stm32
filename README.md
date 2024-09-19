@@ -1,5 +1,5 @@
 # reflected-crc32-stm32
-Reflected CRC32 Communication on STM32H753ZI Using Arduino
+Reflected CRC32 Communication on STM32H753ZI Using Arduino IDE
 
 This project implements a reflected CRC32 algorithm on STM32H753ZI boards to ensure reliable communication between a transmitter and receiver. The setup involves two STM32 boards, each connected to a common ground via a PC (laptop). The transmitter board receives a message from the PC, calculates the CRC32 checksum, and sends the message to the receiver board.
 
