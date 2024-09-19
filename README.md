@@ -7,3 +7,6 @@ The receiver board performs its own CRC calculation on the received message, com
 
 The project is developed using Arduino and ensures data integrity during transmission through cyclic redundancy checks
 (CRC). This process simulates a communication protocol with error-checking capabilities commonly used in embedded systems.
+<p align="center">
+  <img src="./images/STM32H753ZI.png" alt="STM32H753ZI Board" width="400" />
+</p>
